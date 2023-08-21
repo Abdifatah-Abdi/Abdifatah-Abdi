@@ -8,4 +8,4 @@ And uhh, yeah...\
 thanks?
 
 (insert unoriginal card that everyone uses)\
-<img height=190 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdifatah-Abdi&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="My Language stats" />
+<img height=190 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdifatah-Abdi&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="My Language stats" />
